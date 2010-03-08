@@ -1,0 +1,16 @@
+Index: .project
+===================================================================
+--- .project	(revision 0)
++++ .project	(revision 0)
+@@ -0,0 +1,11 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<projectDescription>
++	<name>svn</name>
++	<comment></comment>
++	<projects>
++	</projects>
++	<buildSpec>
++	</buildSpec>
++	<natures>
++	</natures>
++</projectDescription>
