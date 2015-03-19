@@ -1,0 +1,47 @@
+Bem se levarmos em conta o modelo em cascata apresentado em sala, eu acho
+que as estimativas de tempo são +- as seguintes:
+
+As duas estapas a seguir diz respeito da análise dos requisitos do software
+e podem ser feitas simultâneamente, totalizando assim 20 horas.
+
+Estimativa de Custo: 8
+Análise da qualidade do produto: 12
+
+A etapa a seguir diz respeito a uma espécie de especificação detalhada do
+sistema, onde todos os problemas de ambigüidades são resolvidos e as dúvidas
+que os projetistas ainda possuem são respondidas.
+
+Especificação Formal: 12
+
+As duas estapas a seguir diz respeito ao processo de organização para o
+desenvolvimento do sistema de tal forma que o mesmo satisfaça todos os
+requisitos funcionais exigidos pelo cliente.
+
+Projeto Arquitetural: 60
+Análise e Projeto: 20
+
+A etapa de implementação, segundo Sommerville, geralmente é uma das mais
+fáceis. Porém, levando em conta que ainda temos que aprender Grails, vou
+colocar um tempo maior do que o geralmente utilizado para este modelo em
+cascata.
+
+Implementação: 160
+
+As duas etapas a seguir geralmente possuem um custo/tempo maior em relação
+as demais. Porém, segundo o Sommerville, para sistemas webs não é necessário
+a dedicação de muito para essa parte. Acho que aqui é onde entra os testes
+com o JUnit ou outra ferramenta de testes que vamos usar e os testes
+simulando as interações que serão feitas entre o cliente e o sistema após a
+entrega da versão final.
+
+Testes de Unidade, Integração e Funcional: 80
+Testes de um sistema real: 20
+
+A etapa a seguir é uma das mais trabalhosas. Ela será a etapa onde, após a
+entrega do sistema para o cliente, o mesmo vai pedir para que algumas
+correções sejam feitas e que novas funcionalidades sejam adicionadas.
+
+Refatoramento de um sistema real: 160
+
+Portanto, acho que se distribuirmos pra que cada pessoa trabalhe pelo menos
+menos 10 horas semanais, dá tempo com folga (ou não... hehehe)!!
